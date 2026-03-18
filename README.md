@@ -5,7 +5,7 @@
 # Hi, I'm Phil!
 **Support Specialist | ITIL Certified**
 
----
+<!-- ---
 
 ## IT Support & Technical Projects
 ### Help Desk Support Simulation
@@ -28,7 +28,7 @@
 
 - **ITIL Certification** – Attained May 2025
 - **CompTIA Security+** – Attained Jan 2020
-- **IT Fundamentals & Troubleshooting** – Self-Guided Projects
+- **IT Fundamentals & Troubleshooting** – Self-Guided Projects -->
 
 ---
 
