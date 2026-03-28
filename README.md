@@ -34,14 +34,13 @@
 
 ## Who I Am
 
-	•	Enjoy solving problems and helping people overcome technical issues
-	•	Known for explaining complex topics in a clear, accessible way
-	•	Go-to person for friends and colleagues when things break
-	•	Bring patience, curiosity, and a positive attitude to every challenge
-	•	Comfortable supporting both non-technical users and complex systems
-	•	Treat every issue as a learning opportunity and a chance to improve outcomes
-	•	Customer-focused approach with clear, transparent communication
-	•	Build strong relationships through trust and reliability
-	•	Use a structured, methodical approach to troubleshooting and root cause analysis
-	•	Collaborate across teams to share knowledge and improve solutions
-	•	Believe in open knowledge sharing to avoid silos and drive better results
+• Known for explaining complex topics in a clear, accessible way
+• Go-to person for friends and colleagues when things break
+• Bring patience, curiosity, and a positive attitude to every challenge
+• Comfortable supporting both non-technical users and complex systems
+• Treat every issue as a learning opportunity and a chance to improve outcomes
+• Customer-focused approach with clear, transparent communication
+• Build strong relationships through trust and reliability
+• Use a structured, methodical approach to troubleshooting and root cause analysis
+• Collaborate across teams to share knowledge and improve solutions
+• Believe in open knowledge sharing to avoid silos and drive better results
