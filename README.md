@@ -32,6 +32,7 @@
 
 ## Who I Am
 
+<<<<<<< HEAD
 • Known for explaining complex topics in a clear, accessible way <br>
 • Go-to person for friends and colleagues when things break <br>
 • Bring patience, curiosity, and a positive attitude to every challenge <br>
@@ -42,3 +43,18 @@
 • Use a structured, methodical approach to troubleshooting and root cause analysis <br>
 • Collaborate across teams to share knowledge and improve solutions <br>
 • Believe in open knowledge sharing to avoid silos and drive better results <br>
+=======
+## Who I Am
+
+Customer-focused support leader with experience driving high-quality service delivery across SaaS and technical environments. I specialise in leading incident response, mentoring engineers, and improving support operations to deliver measurable outcomes.
+
+• Lead by example, mentoring team members, improving performance, and building strong team engagement  
+• Drive continuous improvement across workflows, documentation, and customer journeys  
+• Strong cross-functional collaborator with Product, Engineering, and Operations teams  
+• Comfortable working in fast-paced, evolving environments with shifting priorities  
+• Data-driven approach to support—focused on SLAs, response times, and customer success metrics  
+• Clear communicator with strong focus on tone, empathy, and customer trust  
+
+
+
+>>>>>>> 1b98ac0 (Update readme)
