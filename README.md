@@ -32,7 +32,6 @@
 
 ## Who I Am
 
-<<<<<<< HEAD
 • Known for explaining complex topics in a clear, accessible way <br>
 • Go-to person for friends and colleagues when things break <br>
 • Bring patience, curiosity, and a positive attitude to every challenge <br>
@@ -55,6 +54,3 @@ Customer-focused support leader with experience driving high-quality service del
 • Data-driven approach to support—focused on SLAs, response times, and customer success metrics  
 • Clear communicator with strong focus on tone, empathy, and customer trust  
 
-
-
->>>>>>> 1b98ac0 (Update readme)
