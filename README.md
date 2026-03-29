@@ -32,6 +32,7 @@
 
 ## Who I Am
 
+
 • Known for explaining complex topics in a clear, accessible way <br>
 • Go-to person for friends and colleagues when things break <br>
 • Bring patience, curiosity, and a positive attitude to every challenge <br>
