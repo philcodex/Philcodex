@@ -28,22 +28,7 @@
 - **CompTIA Security+** – Attained Jan 2020
 - **IT Fundamentals & Troubleshooting** – Self-Guided Projects -->
 
----
 
-## Who I Am
-
-
-• Known for explaining complex topics in a clear, accessible way <br>
-• Go-to person for friends and colleagues when things break <br>
-• Bring patience, curiosity, and a positive attitude to every challenge <br>
-• Comfortable supporting both non-technical users and complex systems <br>
-• Treat every issue as a learning opportunity and a chance to improve outcomes <br>
-• Customer-focused approach with clear, transparent communication <br>
-• Build strong relationships through trust and reliability <br>
-• Use a structured, methodical approach to troubleshooting and root cause analysis <br>
-• Collaborate across teams to share knowledge and improve solutions <br>
-• Believe in open knowledge sharing to avoid silos and drive better results <br>
-=======
 ## Who I Am
 
 Customer-focused support leader with experience driving high-quality service delivery across SaaS and technical environments. I specialise in leading incident response, mentoring engineers, and improving support operations to deliver measurable outcomes.
