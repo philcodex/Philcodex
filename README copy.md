@@ -38,6 +38,6 @@ I'm someone who genuinely enjoys solving problems and helping people get back on
 
 I bring patience, curiosity, and a positive attitude to every challenge — whether that's walking a non-technical user through a solution or troubleshooting stubborn systems in my home lab. I see every ticket not just as a problem, but as a chance to learn and make someone's day easier.
 
-I operate within a customer-centric framework, prioritising clear and transparent communication to build and maintain strong customer relationships. When it comes to troubleshooting and investigating issues, I take a structured approach — methodically working through problems to identify root causes and deliver reliable solutions. I actively collaborate across teams, both to share what I know and to learn from others, ensuring that knowledge doesn't stay siloed and that the best solution always finds its way to the customer.
+I operate within a customer-centric framework, prioritising clear and transparent communication to build and maintain strong customer relationships. When it comes to troubleshooting and investigating issues, I take a structured approach — methodically working through problems to identify root causes and deliver reliable solutions. I actively collaborate across teams, both to share what I know and to learn from others, ensuring that knowledge doesn't stay siloed and that the best solution always finds its way to the customer..
 
 
