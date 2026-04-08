@@ -29,14 +29,16 @@
 - **IT Fundamentals & Troubleshooting** – Self-Guided Projects -->
 
 
-## Who I Am
+## 👋 Hi, I'm Phil!
 
-Customer-focused support leader with experience driving high-quality service delivery across SaaS and technical environments. I specialise in leading incident response, mentoring engineers, and improving support operations to deliver measurable outcomes.
+**Support Specialist | ITIL Certified**
 
-• Lead by example, mentoring team members, improving performance, and building strong team engagement  
-• Drive continuous improvement across workflows, documentation, and customer journeys  
-• Strong cross-functional collaborator with Product, Engineering, and Operations teams  
-• Comfortable working in fast-paced, evolving environments with shifting priorities  
-• Data-driven approach to support—focused on SLAs, response times, and customer success metrics  
-• Clear communicator with strong focus on tone, empathy, and customer trust  
+Customer-focused support leader experienced in SaaS and technical environments. I excel at incident response, mentoring engineers, and driving operational improvements that deliver measurable results for both teams and customers.
 
+- Lead and mentor high-performing support teams
+- Optimize workflows, documentation, and customer journeys
+- Collaborate effectively with Product, Engineering, and Operations
+- Data-driven approach to SLAs, response times, and customer success
+- Strong emphasis on empathy, clear communication, and building trust
+
+Currently passionate about enhancing Customer Success operations with cutting-edge tools — particularly at Twilio.
