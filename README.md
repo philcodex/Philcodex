@@ -29,7 +29,7 @@
 - **IT Fundamentals & Troubleshooting** – Self-Guided Projects -->
 
 
-## 👋 Hi, I'm Phil!
+## 👋 Hi, I'm Phil
 
 **Customer Success & Support Leader | ITIL Certified** 🏆
 
