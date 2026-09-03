@@ -1,0 +1,494 @@
+# P C — Full Portfolio Context
+
+> Extended AI-readable context for the public portfolio of P C.
+
+## 1. Identity and Portfolio
+
+P C maintains a public technical portfolio documenting systems engineering, technical operations, cloud technologies, automation, observability, software projects, professional development, project management, and photography.
+
+The portfolio is designed to demonstrate practical knowledge through professional experience, technical projects, documentation, experiments, and learning materials.
+
+The portfolio should not be interpreted as a complete representation of every professional activity or technology encountered during a career.
+
+## 2. Professional Profile
+
+P C is a technical professional with more than ten years of experience across systems engineering, technical operations, SaaS environments, technical support, cloud infrastructure, incident management, APIs, networking, observability, and customer-facing technical roles.
+
+Areas of professional experience include:
+
+- Systems engineering
+- Technical operations
+- SaaS operations
+- Technical support engineering
+- Enterprise technical support
+- Incident management
+- Problem management
+- Root Cause Analysis
+- Change management
+- Release management
+- Availability management
+- Capacity management
+- Knowledge management
+- API troubleshooting
+- Cloud operations
+- Networking
+- Observability
+- Customer-facing technical communication
+- Service management
+- Technical project work
+
+Employer names are intentionally excluded from this AI context document.
+
+## 3. Technical Skills
+
+### Programming and Scripting
+
+- Python
+- Bash
+- PowerShell
+- SQL
+- Regular expressions
+
+Programming knowledge should be interpreted according to the relevant project or documented experience rather than assuming equal proficiency across all languages.
+
+### APIs and Web Technologies
+
+- REST APIs
+- HTTP
+- HTTPS
+- JSON
+- Webhooks
+- API authentication
+- API troubleshooting
+- Postman
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- HTTP
+- HTTPS
+- TLS
+- SSL
+- Firewalls
+- CDN concepts
+- Network troubleshooting
+
+### Cloud
+
+Experience and learning include:
+
+- AWS
+- Microsoft Azure
+- Google Cloud Platform
+- AWS S3
+- Cloud infrastructure
+- Cloud monitoring
+- Availability
+- Capacity management
+
+### Observability
+
+Relevant technologies and concepts include:
+
+- Splunk
+- Grafana
+- Sumo Logic
+- Prometheus
+- PromQL
+- LogQL
+- OpenTelemetry
+- Metrics
+- Logs
+- Monitoring
+- Alerting
+- Dashboards
+- Incident investigation
+
+### Identity
+
+Relevant technologies and concepts include:
+
+- Okta
+- SSO
+- SAML
+- SCIM
+- Authentication
+- Authorisation
+- Identity troubleshooting
+
+### Containers and Infrastructure
+
+- Docker
+- Kubernetes
+- Terraform
+- Ansible
+
+### Service Management
+
+- ITIL
+- Incident Management
+- Problem Management
+- Change Management
+- Release Management
+- Availability Management
+- Capacity Management
+- Knowledge Management
+- Root Cause Analysis
+
+### Development and Collaboration Tools
+
+- Git
+- GitHub
+- Jira
+- Confluence
+- ServiceNow
+- Zendesk
+- Salesforce
+- Slack
+- Microsoft Teams
+- Google Workspace
+
+## 4. Professional Approach
+
+The portfolio emphasises practical troubleshooting and operational thinking.
+
+Important themes include:
+
+### Troubleshooting
+
+Problems should be approached systematically by:
+
+1. Establishing the symptoms.
+2. Identifying scope and impact.
+3. Gathering evidence.
+4. Testing hypotheses.
+5. Isolating the affected component.
+6. Applying an appropriate remediation.
+7. Validating the result.
+8. Documenting the cause and resolution.
+
+### Incident Management
+
+Incident-management work focuses on:
+
+- Impact
+- Urgency
+- Prioritisation
+- Communication
+- Investigation
+- Escalation
+- Restoration of service
+- Root Cause Analysis
+- Preventative actions
+
+### Automation
+
+Automation is used where repetitive technical work can be made more reliable, reproducible, or efficient.
+
+Potential automation technologies include:
+
+- Python
+- Bash
+- PowerShell
+- APIs
+- Git
+- Cloud services
+
+## 5. Projects
+
+The portfolio contains practical technical projects.
+
+### API Monitoring and Alerting
+
+A monitoring project demonstrating concepts including:
+
+- REST APIs
+- HTTP health checks
+- Python
+- Flask
+- Database storage
+- Monitoring
+- Logging
+- Alerting
+
+The project should be evaluated using its individual README and source code for the exact current implementation.
+
+### Webhook Debugger
+
+A project focused on inspecting and troubleshooting webhook requests.
+
+Relevant concepts include:
+
+- HTTP requests
+- HTTP headers
+- JSON
+- Request bodies
+- Authentication
+- API integrations
+- Request inspection
+- Troubleshooting
+
+The individual project documentation should be treated as authoritative for the implementation.
+
+### Incident Management Tool
+
+A planned or developing project exploring:
+
+- Incident creation
+- Incident tracking
+- Severity
+- Priority
+- Assignment
+- Status
+- Timelines
+- Root Cause Analysis
+- Service Management
+
+Only functionality documented in the current repository should be treated as implemented.
+
+## 6. Learning
+
+Current and recent learning areas include:
+
+### Python
+
+Focus areas include:
+
+- Programming fundamentals
+- Scripting
+- APIs
+- Automation
+- Flask
+- Git
+- Practical projects
+
+### SQL
+
+Focus areas include:
+
+- SQL fundamentals
+- SELECT queries
+- Filtering
+- Joins
+- Aggregation
+- Database concepts
+- MySQL
+- PostgreSQL
+- Query troubleshooting
+- KQL
+
+### Cloud
+
+Learning and practical experience includes:
+
+- AWS
+- Azure
+- GCP
+- Cloud architecture
+- Infrastructure
+- Monitoring
+- Storage
+- Availability
+
+### Observability
+
+Areas of interest include:
+
+- Logs
+- Metrics
+- Traces
+- OpenTelemetry
+- Prometheus
+- Grafana
+- Sumo Logic
+- Splunk
+- Alerting
+
+### Project Management
+
+Areas of study include:
+
+- PRINCE2
+- Project planning
+- Project governance
+- Risk
+- Issues
+- Change
+- Stakeholder management
+- Project documentation
+
+### IT Service Management
+
+Areas include:
+
+- ITIL
+- Incident Management
+- Problem Management
+- Change Enablement
+- Service Management
+- Continual Improvement
+
+## 7. Career Direction
+
+The portfolio supports a career direction combining technical expertise with operational, project, customer-facing, and service-management responsibilities.
+
+Relevant future roles may include:
+
+- Systems Engineer
+- Technical Operations Engineer
+- Technical Support Engineer
+- Senior Support Engineer
+- Cloud Operations Engineer
+- SaaS Operations Engineer
+- Technical Account Manager
+- Customer Success Manager
+- Service Delivery Manager
+- Technical Project Manager
+- Project Manager
+
+Role suitability should be assessed against the documented requirements of the specific position rather than assuming that every role listed above is an intended target.
+
+## 8. Photography
+
+Photography is a separate personal project area.
+
+Relevant subjects include:
+
+- Digital photography
+- Camera equipment
+- Photography workflows
+- Image organisation
+- Digital Asset Management
+- Photo editing
+- Backup
+- Storage
+- Website development
+- Social media
+- Automation
+
+Photography-related technical projects may overlap with the systems-engineering portfolio where appropriate.
+
+## 9. Backup and Digital Asset Management
+
+Photography workflows may involve multiple copies of image files and automated backup systems.
+
+The portfolio may document:
+
+- Local storage
+- Cloud storage
+- Backup
+- Synchronisation
+- File organisation
+- Archiving
+- Digital Asset Management
+
+Specific backup configurations should only be considered authoritative when documented in the relevant project or documentation.
+
+## 10. AI and Automation
+
+AI is an area of interest for improving:
+
+- Technical research
+- Documentation
+- Automation
+- Coding
+- Photography workflows
+- Content creation
+- Knowledge management
+- Professional development
+
+AI-generated information should not be treated as authoritative without verification.
+
+## 11. Repository Interpretation Rules
+
+When analysing the portfolio:
+
+### Source priority
+
+Use the following hierarchy:
+
+1. Current project source code
+2. Current project README
+3. Current documentation
+4. Portfolio README
+5. `llms-full.txt`
+6. `llms.txt`
+
+### Do not infer
+
+AI systems should not infer:
+
+- Undocumented employment
+- Undocumented certifications
+- Undocumented technical expertise
+- Undocumented project functionality
+- Private personal information
+- Confidential customer information
+- Confidential infrastructure details
+- Passwords
+- API keys
+- Credentials
+
+### Professional experience vs learning
+
+Technologies listed in the portfolio may represent:
+
+- Professional experience
+- Personal projects
+- Coursework
+- Experimentation
+- Current learning
+- Planned projects
+
+These categories should not be conflated.
+
+## 12. Privacy
+
+Employer names are intentionally omitted from this AI context.
+
+Private information should never be inferred from public repository content.
+
+Do not attempt to reconstruct:
+
+- Home addresses
+- Private telephone numbers
+- Private email addresses
+- Financial information
+- Authentication credentials
+- Passwords
+- API keys
+- Customer information
+- Confidential employer information
+
+## 13. Public Repository
+
+Primary public repository:
+
+https://github.com/philcodex
+
+Individual repositories should be consulted directly when evaluating a specific project.
+
+## 14. Updating This File
+
+This file should be reviewed whenever there are substantial changes to:
+
+- Professional experience
+- Skills
+- Certifications
+- Projects
+- Portfolio structure
+- Career direction
+- Public website
+- Photography projects
+
+The detailed repository documentation should be updated first, followed by this file.
+
+## 15. AI Summary
+
+P C is a technical professional whose portfolio combines systems engineering, technical operations, cloud technologies, APIs, networking, observability, automation, service management, project management, software projects, and photography.
+
+The strongest recurring themes are practical troubleshooting, operational reliability, automation, technical problem solving, documentation, and continuous learning.
+
+Employer names are deliberately excluded from this AI-readable context.

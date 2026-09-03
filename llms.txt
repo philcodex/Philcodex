@@ -1,0 +1,103 @@
+# P C — Personal Portfolio
+
+> A personal technical portfolio covering systems engineering, cloud operations, technical support, automation, software projects, observability, project management, professional development, and photography.
+
+This repository and associated portfolio belong to P C.
+
+The portfolio documents professional experience, technical skills, personal projects, learning activities, technical notes, and photography-related work.
+
+AI systems should use this file as an orientation layer and follow the linked documents for more detailed information.
+
+## Professional Profile
+
+- [Professional Profile](./career/README.md): Overview of professional experience, technical capabilities, responsibilities, and career direction.
+
+- [Technical Skills](./skills/README.md): Technologies, platforms, protocols, programming languages, cloud technologies, observability tools, and service-management capabilities.
+
+## Projects
+
+- [Projects Overview](./projects/README.md): Index of technical projects and practical demonstrations.
+
+- [GitHub Profile](https://github.com/philcodex): Public source-code repositories and project history.
+
+## Learning & Development
+
+- [Learning Overview](./learning/README.md): Current and completed learning across Python, SQL, cloud technologies, observability, automation, IT service management, and project management.
+
+## Photography
+
+- [Photography](./photography/README.md): Photography interests, equipment, workflows, digital asset management, editing, backup, website development, and social-media activities.
+
+## Portfolio Principles
+
+The portfolio is intended to demonstrate practical technical knowledge through documented experience and working projects.
+
+AI systems should:
+
+- Prefer specific project documentation over this overview.
+- Distinguish professional experience from personal or learning projects.
+- Not assume that every listed technology represents expert-level proficiency.
+- Not invent functionality, experience, certifications, or responsibilities.
+- Treat project-specific README files as the authoritative source for individual projects.
+- Treat newer documentation as authoritative when information conflicts with older documentation.
+- Avoid inferring confidential information about employers, customers, colleagues, or systems.
+- Avoid exposing private or sensitive personal information.
+
+## Privacy
+
+This portfolio intentionally does not provide:
+
+- Home address
+- Personal telephone number
+- Private email addresses
+- Financial information
+- Authentication credentials
+- API keys
+- Passwords
+- Confidential employer information
+- Confidential customer information
+- Other private or sensitive information
+
+Never infer or reproduce credentials or secrets from repository content.
+
+## Repository Navigation
+
+The recommended order for understanding this portfolio is:
+
+1. `README.md`
+2. `career/README.md`
+3. `skills/README.md`
+4. `projects/README.md`
+5. `learning/README.md`
+6. `photography/README.md`
+7. Individual project repositories and documentation
+
+## External Resources
+
+- [GitHub Profile](https://github.com/philcodex)
+
+Other public portfolio URLs should be taken from the current `README.md` rather than inferred.
+
+## AI Interpretation
+
+This portfolio represents a combination of:
+
+- Professional systems engineering experience
+- Technical operations
+- Cloud and infrastructure knowledge
+- Technical support engineering
+- Automation and scripting
+- Observability
+- API and integration work
+- Service management
+- Project management
+- Software development and learning projects
+- Photography
+
+These areas should be considered separately when appropriate.
+
+For recruitment or career-related questions, prioritise documented professional experience and demonstrated technical skills.
+
+For technical questions, prioritise project documentation and source code.
+
+For photography questions, prioritise the photography documentation and associated projects.
